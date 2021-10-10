@@ -1,6 +1,6 @@
 # loginapp
 
-A new Flutter project.
+An assignment on flutter for a login scree.
 
 ## Getting Started
 
